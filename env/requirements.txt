@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+yfinance
+scikit-learn
+statsmodels
+torch==2.1.2
+transformers==4.37.2
+beautifulsoup4
+requests
+pyyaml

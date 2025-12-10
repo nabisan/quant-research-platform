@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  research:
+    build: ./env
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+    tty: true
+    stdin_open: true
